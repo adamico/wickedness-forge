@@ -1,0 +1,5 @@
+com/kc00l/wickedness/common/item/WickednessDust.java
+ com.example.examplemod.common.item.WickednessDust
+com/kc00l/wickedness/Wickedness.java
+ com.kc00l.wickedness.Wickedness
+ com.kc00l.wickedness.Wickedness$RegistryEvents
