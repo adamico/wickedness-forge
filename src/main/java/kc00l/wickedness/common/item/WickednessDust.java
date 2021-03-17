@@ -1,9 +1,11 @@
 package kc00l.wickedness.common.item;
 
-import net.minecraft.util.ResourceLocation;
-import net.minecraftforge.registries.ForgeRegistryEntry;
+import net.minecraft.item.Item;
+import net.minecraft.item.ItemGroup;
 
-public final class WickednessDust extends ForgeRegistryEntry<WickednessDust>
-{
 
+public final class WickednessDust extends Item {
+    public WickednessDust() {
+        super(new Item.Properties().tab(ItemGroup.TAB_MISC));
+    }
 }

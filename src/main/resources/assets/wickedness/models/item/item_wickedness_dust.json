@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wickedness:items/item_wickedness_dust"
+  }
+}
